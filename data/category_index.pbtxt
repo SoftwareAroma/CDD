@@ -1,0 +1,94 @@
+category_index={
+    1: {
+      "id": 1,
+      "name": "Corn Cercospora Leaf Spot"
+    },
+    2: {
+      "id": 2,
+      "name": "Corn Common Rust"
+    },
+    3: {
+      "id": 3,
+      "name": "Corn Healthy"
+    },
+    4: {
+      "id": 4,
+      "name": "Corn Streak"
+    },
+    5: {
+      "id": 5,
+      "name": "Corn Northern Leaf Blight"
+    },
+    6: {
+      "id": 6,
+      "name": "Pepper Leaf Curl"
+    },
+    7: {
+      "id": 7,
+      "name": "Pepper Cercospora"
+    },
+    8: {
+      "id": 8,
+      "name": "Pepper Leaf Blight"
+    },
+    9: {
+      "id": 9,
+      "name": "Pepper Bacterial Spot"
+    },
+    10: {
+      "id": 10,
+      "name": "Pepper Leaf Mosaic"
+    },
+    11: {
+      "id": 11,
+      "name": "Pepper Healthy"
+    },
+    12: {
+      "id": 12,
+      "name": "Pepper Fusarium"
+    },
+    13: {
+      "id": 13,
+      "name": "Pepper Septoria"
+    },
+    14: {
+      "id": 14,
+      "name": "Pepper Late Blight"
+    },
+    15: {
+      "id": 15,
+      "name": "Pepper Early Blight"
+    },
+    16: {
+      "id": 16,
+      "name": "Tomato Late Blight"
+    },
+    17: {
+      "id": 17,
+      "name": "Tomato Early Blight"
+    },
+    18: {
+      "id": 18,
+      "name": "Tomato Bacterial Spot"
+    },
+    19: {
+      "id": 19,
+      "name": "Tomato Septoria"
+    },
+    20: {
+      "id": 20,
+      "name": "Tomato Fusarium"
+    },
+    21: {
+      "id": 21,
+      "name": "Tomato Leaf Curl"
+    },
+    22: {
+      "id": 22,
+      "name": "Tomato Healthy"
+    },
+    23: {
+      "id": 23,
+      "name": "Tomato Mosaic"
+    }
+}
